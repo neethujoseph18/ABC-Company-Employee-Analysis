@@ -120,7 +120,7 @@ The employee count was calculated for each of the five original positions.
 | SF | 85 | 18.56% |
 | C | 79 | 17.25% |
 
-**Key observation:** SG (Shooting Guard) has the highest representation, while C (Center) has the lowest representation.
+**Key observation:** SG has the highest representation, while C has the lowest representation.
 
 ### 3. Predominant Age Group
 
