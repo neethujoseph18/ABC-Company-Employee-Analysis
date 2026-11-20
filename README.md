@@ -107,6 +107,9 @@ Employee counts and percentage distribution were calculated using Pandas `groupb
 - Most teams have 15 employees (3.28%).
 
 Visualisations: Count Plot and Pie Chart.
+<img width="1242" height="511" alt="image" src="https://github.com/user-attachments/assets/9faa616f-11d1-4803-9c70-e9ac873ea8de" />
+<img width="1118" height="777" alt="image" src="https://github.com/user-attachments/assets/c3028e4a-a12e-47dd-acff-48b98d545bd0" />
+
 
 ### 2. Employee Distribution by Position
 
@@ -120,6 +123,7 @@ The employee count was calculated for each of the five original positions.
 | SF | 85 | 18.56% |
 | C | 79 | 17.25% |
 
+<img width="917" height="452" alt="image" src="https://github.com/user-attachments/assets/6495a844-14c1-4b5b-bf84-4dbd95795c12" />
 **Key observation:** SG has the highest representation, while C has the lowest representation.
 
 ### 3. Predominant Age Group
@@ -132,6 +136,8 @@ Employees were grouped into four age categories.
 | 25–29 | 182 | 39.74% |
 | 30–34 | 90 | 19.65% |
 | 35–40 | 32 | 6.99% |
+
+<img width="810" height="443" alt="image" src="https://github.com/user-attachments/assets/3a11e4d2-801d-4fef-80ef-6d9bc79b76d5" />
 
 **Key observation:** The predominant age group is 25–29, with 182 employees (39.74%). Employees aged 18–29 account for approximately 73.36% of the workforce.
 
@@ -151,6 +157,8 @@ A pivot table was created to calculate total salary expenditure across teams and
 | SF | 412.9 |
 | SG | 411.5 |
 
+<img width="923" height="732" alt="image" src="https://github.com/user-attachments/assets/a718f82d-4be5-4ae4-a822-674555d3dfd9" />
+
 **Key observation:** C account for the highest salary expenditure despite having the lowest employee count. However, the difference between C and PG is relatively small, at approximately $0.2 million.
 
 ### 5. Correlation Between Age and Salary
@@ -159,9 +167,11 @@ Pearson correlation was used to investigate the relationship between employee ag
 
 **Correlation coefficient: 0.211**
 
+A scatter plot with a regression line was used to visualise the relationship.
+<img width="602" height="402" alt="image" src="https://github.com/user-attachments/assets/5010a7d1-5d85-4ffc-9f24-86be89ce318b" />
+
 **Key observation:** The result indicates a weak positive correlation between age and salary. This suggests that salary tends to increase slightly with age, but age alone does not strongly determine employee salary.
 
-A scatter plot with a regression line was used to visualise the relationship.
 
 ## Key Findings
 
